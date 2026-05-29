@@ -46,7 +46,7 @@ Este projeto foi desenvolvido para a disciplina de Programação Orientada a Obj
 
 ## Diagrama de Arquitetura
 
-I
+
 ---
 
 ## Como Executar
