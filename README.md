@@ -63,6 +63,7 @@ Desenvolvedor de Persistência (DAO)
 Desenvolvedor de Modelo (Entities)	
 
 Desenvolvedor de Negócio (Business/BO)	Gabriel Alencar
+
 Especialista em Padrões de Projeto (Gang of Four)	
 
 Desenvolvedor de Interface e Controle (Controller)	
